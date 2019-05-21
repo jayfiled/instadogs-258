@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# To get started:
+- Clone or download the zip to your computer.
+- In your terminal:
+- cd to the project's root
+- Run bundle install
+- Run yarn install
+- Run rails server
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+And browse to http://localhost:3000/dogs
