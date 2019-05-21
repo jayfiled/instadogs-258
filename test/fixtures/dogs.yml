@@ -1,0 +1,7 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+kogi:
+  name: Kogi
+  breed: German Shorthaired Pointer
+  birthdate: <%= 5.years.ago %>
+  colour: live & white ticked
